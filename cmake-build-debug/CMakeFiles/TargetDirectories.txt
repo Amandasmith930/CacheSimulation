@@ -1,0 +1,3 @@
+/Users/admin/CLionProjects/CacheSimulator/cmake-build-debug/CMakeFiles/CacheSimulator.dir
+/Users/admin/CLionProjects/CacheSimulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/admin/CLionProjects/CacheSimulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
